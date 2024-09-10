@@ -1,0 +1,29 @@
+.title {
+  width: 50%;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 48px;
+  margin-bottom: 48px;
+}
+
+.list {
+  font-weight: 500;
+  font-size: 30px;
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+tr:nth-child(even) {
+  background-color: #cac5c5;
+}
+.item {
+  font-weight: 400;
+  font-size: 30px;
+  text-align: center;
+  padding: 8px;
+  border: 1px solid black;
+}
