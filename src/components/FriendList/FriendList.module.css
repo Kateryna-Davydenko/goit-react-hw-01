@@ -21,11 +21,3 @@ p {
   font-size: 40px;
   align-items: center;
 }
-
-.online {
-  color: green;
-}
-
-.offline {
-  color: red;
-}
